@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+org.jboss.tools.openshift.ApplicationId=51e471845973ca86d6000350
+org.jboss.tools.openshift.ApplicationName=calculatorws
+org.jboss.tools.openshift.Connection=https\://raygao@
+org.jboss.tools.openshift.DeployFolder=deployments
+org.jboss.tools.openshift.Domain=raygao
+org.jboss.tools.openshift.RemoteName=origin

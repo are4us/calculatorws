@@ -1,0 +1,4 @@
+<!--  https://www.openshift.com/forums/openshift/cannot-obtain-endpoint-creating-webservice -->
+<jboss-web>
+   <context-root>/calculatorws</context-root>
+</jboss-web>
